@@ -13,4 +13,8 @@ public class testApplication {
     public void m3(){
         System.out.println("method3 calling");
     }
+    @Test
+    public void m4(){
+        System.out.println("method3 calling");
+    }
 }
